@@ -1,13 +1,15 @@
-![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
+[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://Jayathkasiwaththa24.io)
 <h1 align="center">Hi 👋, I'm Jayath Kasiwaththa</h1>
-<h3 align="center"></h3>
+<h3 align="center">From Beginner to Pro</h3>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966 ">
 
-<img align="right" alt="Coding" width="400" src="https://bootcamp.uxdesign.cc/svg-animation-ac889b221ec3">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jayathkasiwaththa24&label=Profile%20views&color=0e75b6&style=flat" alt="Jayathkasiwaththa24" /> </p>
 
-<p align="left"> <img src="https://bootcamp.uxdesign.cc/svg-animation-ac889b221ec3" /> </p>
+- 🔭 I’m currently working on *MERN Stack*
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 👩🏼‍🎓I’m Undergraduate at *SLIIT*
+
+
 
 - 📫 How to reach me **jayathkasiwaththa24@gmail.com**
 
