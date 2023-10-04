@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jayath Kasiwaththa</h1>
 <h3 align="center"></h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3564812-Working-Max-Comalatech&psig=AOvVaw1xQdRpYfjpN1UcsY0HMf3b&ust=1696512206866000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOip9cy-3IEDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://bootcamp.uxdesign.cc/svg-animation-ac889b221ec3">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayathkasiwaththa233&label=Profile%20views&color=0e75b6&style=flat" alt="jayathkasiwaththa233" /> </p>
 
