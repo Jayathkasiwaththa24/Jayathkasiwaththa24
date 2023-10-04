@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://bootcamp.uxdesign.cc/svg-animation-ac889b221ec3">
 
-<p align="left"> <img src="" /> </p>
+<p align="left"> <img src="https://bootcamp.uxdesign.cc/svg-animation-ac889b221ec3" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
