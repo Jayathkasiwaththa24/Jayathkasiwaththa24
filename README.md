@@ -1,9 +1,9 @@
-![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif
-)
+![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm Jayath Kasiwaththa</h1>
 <h3 align="center"></h3>
 
 <img align="right" alt="Coding" width="400" src="https://bootcamp.uxdesign.cc/svg-animation-ac889b221ec3">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jayathkasiwaththa24&label=Profile%20views&color=0e75b6&style=flat" alt="Jayathkasiwaththa24" /> </p>
 
 <p align="left"> <img src="https://bootcamp.uxdesign.cc/svg-animation-ac889b221ec3" /> </p>
 
