@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jayath-kasiwaththa-400626215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayath-kasiwaththa-400626215/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/jayathsisilaka.sisilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/jayathsisilaka.sisilaka" height="30" width="40" /></a>
-<a href="https://instagram.com/_j_s_k_a_z_i_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_j_s_k_a_z_i_" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jayath-kasiwaththa-400626215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayath-kasiwaththa-400626215/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jayathsisilaka.sisilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/jayathsisilaka.sisilaka" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_j_s__k_a_z_i_/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_j_s_k_a_z_i_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
