@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayath Kasiwaththa</h1>
 <h3 align="center">From Beginner to Pro</h3>
 <div align="center">
-  <img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FVBGCoder&psig=AOvVaw2IyO52vmAKio0BU8toHQ6K&ust=1722568629693000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiLrLHq0ocDFQAAAAAdAAAAABAE"
+  <img  src="https://github.com/Jayathkasiwaththa24/Jayathkasiwaththa24/blob/main/Banner.gif"
        alt="Banner" /></a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
